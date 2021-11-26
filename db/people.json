@@ -1,0 +1,67 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Kaushal Kumar",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+      "phone": "109-433-7524",
+      "email": "kaushal@gmail.com",
+      "department": "Engineering",
+      "password": "kaushal@123"
+    },
+    {
+      "id": 0.8073198778541952,
+      "name": "kaushal",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+      "phone": "109-433-7524",
+      "email": "kaushal@etelligens.in",
+      "department": "Engineering",
+      "password": "12abc"
+    },
+    {
+      "id": 0.7943791963264002,
+      "name": "Kaushal",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+      "phone": "109-433-7524",
+      "email": "Kaushal@123gmail.com",
+      "department": "Engineering",
+      "password": "Kaushal@123"
+    },
+    {
+      "id": 0.2811471726319863,
+      "name": "Kaushal",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+      "phone": "109-433-7524",
+      "email": "Kaushal@123gmail.com",
+      "department": "Engineering",
+      "password": "Kaushal@123"
+    },
+    {
+      "id": 0.3085589121780876,
+      "name": "Kaushal",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+      "phone": "109-433-7524",
+      "email": "Kaushal@123gmail.com",
+      "department": "Engineering",
+      "password": "Kaushal@123"
+    },
+    {
+      "id": 0.16766645196322472,
+      "name": "Ronika",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+      "phone": "109-433-7524",
+      "email": "ronika@gmail.com",
+      "department": "Engineering",
+      "password": "123"
+    },
+    {
+      "id": 0.34863189751682544,
+      "name": "ronika",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+      "phone": "109-433-7524",
+      "email": "ronika123@gmail.com",
+      "department": "Engineering",
+      "password": "1234"
+    }
+  ]
+}
